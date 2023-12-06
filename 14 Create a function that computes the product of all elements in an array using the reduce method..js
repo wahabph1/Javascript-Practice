@@ -8,4 +8,3 @@ Numbers = Numbers.reduce((accumaltor,element)=>{
 
 },1)
 console.log(Numbers)
-console.log("Wahab")
