@@ -6,4 +6,3 @@ Array = Array.reduce((accumaltor, ele) => {
     
 }, [])
 console.log(Array)
-  console.log("waha")
